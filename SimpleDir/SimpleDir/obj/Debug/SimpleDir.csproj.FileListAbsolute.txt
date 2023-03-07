@@ -1,0 +1,7 @@
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\bin\Debug\SimpleDir.exe.config
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\bin\Debug\SimpleDir.exe
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\bin\Debug\SimpleDir.pdb
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\obj\Debug\SimpleDir.csprojAssemblyReference.cache
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\obj\Debug\SimpleDir.csproj.CoreCompileInputs.cache
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\obj\Debug\SimpleDir.exe
+C:\Users\ning\source\repos\SimpleDir\SimpleDir\obj\Debug\SimpleDir.pdb
